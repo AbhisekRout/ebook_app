@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: "eBook",
+      title: "eBook ",
       //darkTheme: ThemeData.dark(),
       home: AllFiles(),
       themeMode: ThemeMode.system,
